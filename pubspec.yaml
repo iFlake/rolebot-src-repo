@@ -1,0 +1,13 @@
+name: "rolebot"
+version: "1.0.0"
+description: "Role updater discord bot"
+author: "Ice Flake"
+
+environment:
+    sdk: ">1.24.0 <2.0.0"
+
+dependencies:
+    dartcord: "^0.1.1"
+    meta: "^1.0.5"
+    w_transport: "^3.0.0"
+    http_parser: ">=3.0.2 <4.0.0"
