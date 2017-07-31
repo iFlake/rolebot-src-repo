@@ -19,7 +19,11 @@ Trainee: 0-30 WPM
 
 ## Setting up
 
-Edit `lib/config.dart` to set this bot up. It should be pretty self-explanatory.
+Edit `lib/config.example.dart` and rename it to `lib/config.dart` to set this bot up. It should be pretty self-explanatory.
+Then create a file called `data/users.json` and paste the following text into it:
+```JSON
+[]
+```
 
 ## Starting
 
